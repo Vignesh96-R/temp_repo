@@ -1,3 +1,24 @@
+
+
+
+
+// circle correct icon
+<svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="12.0341" cy="11.5686" r="10.6771" stroke="black" stroke-width="1.2"/>
+<path d="M5.87 12.0884L11.3657 16.0989L18.1982 7.03833" stroke="black" stroke-width="1.2"/>
+</svg>
+
+
+
+//circle wrong icon
+<svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="11.5166" cy="11.5686" r="10.6771" stroke="black" stroke-width="1.2"/>
+<path d="M6.96289 7.06543L16.0704 16.0718M6.96289 16.0718L16.0704 7.06543" stroke="black" stroke-width="1.2"/>
+</svg>
+
+
+
+
 //Apple icon
 <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
 <path d="M11.5619 5.82638C16.6244 4.75616 17.1217 2.86048 17.2681 0C13.4212 0.714556 12.0326 2.0935 11.5619 5.82638Z" fill="white"/>
